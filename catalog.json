@@ -1,0 +1,304 @@
+{
+  "categories": {
+    "Bollywood": [
+      {
+        "name": "Baby Snow Lion Dance.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Bollywood/Baby Snow Lion Dance.mp3",
+        "path": "Bollywood/Baby Snow Lion Dance.mp3"
+      }
+    ],
+    "Children": [
+      {
+        "name": "Baby Snow Lion Dance.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Children/Baby Snow Lion Dance.mp3",
+        "path": "Children/Baby Snow Lion Dance.mp3"
+      },
+      {
+        "name": "Butterfly Kites.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Children/Butterfly Kites.mp3",
+        "path": "Children/Butterfly Kites.mp3"
+      },
+      {
+        "name": "Dechen First Momo.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Children/Dechen First Momo.mp3",
+        "path": "Children/Dechen First Momo.mp3"
+      },
+      {
+        "name": "Flying Prayer Flags.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Children/Flying Prayer Flags.mp3",
+        "path": "Children/Flying Prayer Flags.mp3"
+      },
+      {
+        "name": "Little Yak Adventure.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Children/Little Yak Adventure.mp3",
+        "path": "Children/Little Yak Adventure.mp3"
+      },
+      {
+        "name": "Snowball at Khawa Karpo.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Children/Snowball at Khawa Karpo.mp3",
+        "path": "Children/Snowball at Khawa Karpo.mp3"
+      }
+    ],
+    "Dramatic": [
+      {
+        "name": "Battle_at_Tsurphu.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Dramatic/Battle_at_Tsurphu.mp3",
+        "path": "Dramatic/Battle_at_Tsurphu.mp3"
+      },
+      {
+        "name": "Chronicles_of_Sakya.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Dramatic/Chronicles_of_Sakya.mp3",
+        "path": "Dramatic/Chronicles_of_Sakya.mp3"
+      },
+      {
+        "name": "Prophecy_of_Samye.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Dramatic/Prophecy_of_Samye.mp3",
+        "path": "Dramatic/Prophecy_of_Samye.mp3"
+      },
+      {
+        "name": "Rise_of_the_Yarlung_Kings.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Dramatic/Rise_of_the_Yarlung_Kings.mp3",
+        "path": "Dramatic/Rise_of_the_Yarlung_Kings.mp3"
+      },
+      {
+        "name": "Siege_of_Gyantse.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Dramatic/Siege_of_Gyantse.mp3",
+        "path": "Dramatic/Siege_of_Gyantse.mp3"
+      },
+      {
+        "name": "Songtsen_Gampo_Quest.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Dramatic/Songtsen_Gampo_Quest.mp3",
+        "path": "Dramatic/Songtsen_Gampo_Quest.mp3"
+      }
+    ],
+    "Energetic": [
+      {
+        "name": "Dance_of_the_Drums.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Energetic/Dance_of_the_Drums.mp3",
+        "path": "Energetic/Dance_of_the_Drums.mp3"
+      },
+      {
+        "name": "Festival_of_Losar.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Energetic/Festival_of_Losar.mp3",
+        "path": "Energetic/Festival_of_Losar.mp3"
+      },
+      {
+        "name": "Market_Day_in_Barkhor.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Energetic/Market_Day_in_Barkhor.mp3",
+        "path": "Energetic/Market_Day_in_Barkhor.mp3"
+      },
+      {
+        "name": "Nomad_s_Horse_Race.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Energetic/Nomad_s_Horse_Race.mp3",
+        "path": "Energetic/Nomad_s_Horse_Race.mp3"
+      },
+      {
+        "name": "Racing_Through_Kham.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Energetic/Racing_Through_Kham.mp3",
+        "path": "Energetic/Racing_Through_Kham.mp3"
+      },
+      {
+        "name": "Rhythm_of_the_Sky_Drums.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Energetic/Rhythm_of_the_Sky_Drums.mp3",
+        "path": "Energetic/Rhythm_of_the_Sky_Drums.mp3"
+      }
+    ],
+    "Inspiring": [
+      {
+        "name": "Heights_of_Kangchenjunga.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Inspiring/Heights_of_Kangchenjunga.mp3",
+        "path": "Inspiring/Heights_of_Kangchenjunga.mp3"
+      },
+      {
+        "name": "Light_of_Sera.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Inspiring/Light_of_Sera.mp3",
+        "path": "Inspiring/Light_of_Sera.mp3"
+      },
+      {
+        "name": "Milarepa_s_Journey.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Inspiring/Milarepa_s_Journey.mp3",
+        "path": "Inspiring/Milarepa_s_Journey.mp3"
+      },
+      {
+        "name": "Path_to_Kailash.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Inspiring/Path_to_Kailash.mp3",
+        "path": "Inspiring/Path_to_Kailash.mp3"
+      },
+      {
+        "name": "Rise_Above.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Inspiring/Rise_Above.mp3",
+        "path": "Inspiring/Rise_Above.mp3"
+      },
+      {
+        "name": "Rise_of_the_Snow_Lion.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Inspiring/Rise_of_the_Snow_Lion.mp3",
+        "path": "Inspiring/Rise_of_the_Snow_Lion.mp3"
+      },
+      {
+        "name": "Wisdom_of_Yeshe.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Inspiring/Wisdom_of_Yeshe.mp3",
+        "path": "Inspiring/Wisdom_of_Yeshe.mp3"
+      }
+    ],
+    "Intense": [
+      {
+        "name": "Dharmapalas__Dance.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Intense/Dharmapalas__Dance.mp3",
+        "path": "Intense/Dharmapalas__Dance.mp3"
+      },
+      {
+        "name": "Dorje_s_Thunder.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Intense/Dorje_s_Thunder.mp3",
+        "path": "Intense/Dorje_s_Thunder.mp3"
+      },
+      {
+        "name": "Fierce_Snow_Lion.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Intense/Fierce_Snow_Lion.mp3",
+        "path": "Intense/Fierce_Snow_Lion.mp3"
+      },
+      {
+        "name": "Mahakala_s_Drums.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Intense/Mahakala_s_Drums.mp3",
+        "path": "Intense/Mahakala_s_Drums.mp3"
+      },
+      {
+        "name": "Peaks_of_Nyenchen_Tanglha.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Intense/Peaks_of_Nyenchen_Tanglha.mp3",
+        "path": "Intense/Peaks_of_Nyenchen_Tanglha.mp3"
+      },
+      {
+        "name": "Warrior_of_Gesar.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Intense/Warrior_of_Gesar.mp3",
+        "path": "Intense/Warrior_of_Gesar.mp3"
+      }
+    ],
+    "Joyful": [
+      {
+        "name": "Children_of_Lhasa.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Joyful/Children_of_Lhasa.mp3",
+        "path": "Joyful/Children_of_Lhasa.mp3"
+      },
+      {
+        "name": "Dancing_in_Barkor.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Joyful/Dancing_in_Barkor.mp3",
+        "path": "Joyful/Dancing_in_Barkor.mp3"
+      },
+      {
+        "name": "Lazy_to_Lit.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Joyful/Lazy_to_Lit.mp3",
+        "path": "Joyful/Lazy_to_Lit.mp3"
+      },
+      {
+        "name": "Losar_Morning.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Joyful/Losar_Morning.mp3",
+        "path": "Joyful/Losar_Morning.mp3"
+      },
+      {
+        "name": "Sunny_Day.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Joyful/Sunny_Day.mp3",
+        "path": "Joyful/Sunny_Day.mp3"
+      },
+      {
+        "name": "Yak_Race_Day.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Joyful/Yak_Race_Day.mp3",
+        "path": "Joyful/Yak_Race_Day.mp3"
+      }
+    ],
+    "Melancholic": [
+      {
+        "name": "Autumn_in_Drepung.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Melancholic/Autumn_in_Drepung.mp3",
+        "path": "Melancholic/Autumn_in_Drepung.mp3"
+      },
+      {
+        "name": "Last_Prayer_at_Ganden.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Melancholic/Last_Prayer_at_Ganden.mp3",
+        "path": "Melancholic/Last_Prayer_at_Ganden.mp3"
+      },
+      {
+        "name": "Lost_Letters_from_Lhasa.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Melancholic/Lost_Letters_from_Lhasa.mp3",
+        "path": "Melancholic/Lost_Letters_from_Lhasa.mp3"
+      },
+      {
+        "name": "Memories_of_Yarlung_Valley.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Melancholic/Memories_of_Yarlung_Valley.mp3",
+        "path": "Melancholic/Memories_of_Yarlung_Valley.mp3"
+      },
+      {
+        "name": "Tears_of_the_Potala.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Melancholic/Tears_of_the_Potala.mp3",
+        "path": "Melancholic/Tears_of_the_Potala.mp3"
+      },
+      {
+        "name": "Yak_Herder_s_Lament.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Melancholic/Yak_Herder_s_Lament.mp3",
+        "path": "Melancholic/Yak_Herder_s_Lament.mp3"
+      }
+    ],
+    "Peaceful": [
+      {
+        "name": "Dawn_at_Mindrolin.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Peaceful/Dawn_at_Mindrolin.mp3",
+        "path": "Peaceful/Dawn_at_Mindrolin.mp3"
+      },
+      {
+        "name": "Evening_at_Samding.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Peaceful/Evening_at_Samding.mp3",
+        "path": "Peaceful/Evening_at_Samding.mp3"
+      },
+      {
+        "name": "Meditation_at_Drak_Yerpa.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Peaceful/Meditation_at_Drak_Yerpa.mp3",
+        "path": "Peaceful/Meditation_at_Drak_Yerpa.mp3"
+      },
+      {
+        "name": "Song_of_Norbulinka.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Peaceful/Song_of_Norbulinka.mp3",
+        "path": "Peaceful/Song_of_Norbulinka.mp3"
+      },
+      {
+        "name": "Tashi_Delek_Dreams.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Peaceful/Tashi_Delek_Dreams.mp3",
+        "path": "Peaceful/Tashi_Delek_Dreams.mp3"
+      },
+      {
+        "name": "Voices_of_the_Stream.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Peaceful/Voices_of_the_Stream.mp3",
+        "path": "Peaceful/Voices_of_the_Stream.mp3"
+      }
+    ],
+    "Romantic": [
+      {
+        "name": "Dolma_s_First_Love.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Romantic/Dolma_s_First_Love.mp3",
+        "path": "Romantic/Dolma_s_First_Love.mp3"
+      },
+      {
+        "name": "Evening_in_Nyingchi.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Romantic/Evening_in_Nyingchi.mp3",
+        "path": "Romantic/Evening_in_Nyingchi.mp3"
+      },
+      {
+        "name": "Love_in_Lhamo_Lake.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Romantic/Love_in_Lhamo_Lake.mp3",
+        "path": "Romantic/Love_in_Lhamo_Lake.mp3"
+      },
+      {
+        "name": "Pema_s_Moonlight.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Romantic/Pema_s_Moonlight.mp3",
+        "path": "Romantic/Pema_s_Moonlight.mp3"
+      },
+      {
+        "name": "Tenzin_and_Yangchen.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Romantic/Tenzin_and_Yangchen.mp3",
+        "path": "Romantic/Tenzin_and_Yangchen.mp3"
+      },
+      {
+        "name": "Tsering_s_Promise.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Romantic/Tsering_s_Promise.mp3",
+        "path": "Romantic/Tsering_s_Promise.mp3"
+      }
+    ]
+  }
+}
