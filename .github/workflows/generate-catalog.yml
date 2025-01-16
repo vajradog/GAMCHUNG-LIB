@@ -1,0 +1,67 @@
+name: Generate Music Catalog
+
+on:
+  push:
+    paths:
+      - '**/*.mp3'
+  workflow_dispatch:
+
+jobs:
+  generate-catalog:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Generate Music Catalog
+        run: |
+          node << 'EOF'
+          const fs = require('fs');
+          const path = require('path');
+          
+          // Get repository info from environment variables
+          const repoOwner = process.env.GITHUB_REPOSITORY.split('/')[0];
+          const repoName = process.env.GITHUB_REPOSITORY.split('/')[1];
+          const branch = 'main';  // or your default branch name
+          
+          function generateCatalog(dir = '.') {
+            const catalog = { categories: {} };
+            
+            // Get all directories (categories)
+            const categories = fs.readdirSync(dir, { withFileTypes: true })
+              .filter(dirent => dirent.isDirectory() && !dirent.name.startsWith('.'))
+              .map(dirent => dirent.name);
+            
+            // Process each category
+            for (const category of categories) {
+              const categoryPath = path.join(dir, category);
+              const files = fs.readdirSync(categoryPath)
+                .filter(file => file.toLowerCase().endsWith('.mp3'));
+              
+              catalog.categories[category] = files.map(file => ({
+                name: file,
+                url: `https://raw.githubusercontent.com/${repoOwner}/${repoName}/${branch}/${category}/${file}`,
+                path: `${category}/${file}`
+              }));
+            }
+            
+            return catalog;
+          }
+          
+          // Generate and save the catalog
+          const catalog = generateCatalog();
+          fs.writeFileSync('catalog.json', JSON.stringify(catalog, null, 2));
+          EOF
+          
+      - name: Commit and Push Catalog
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add catalog.json
+          git commit -m "Update music catalog" || exit 0
+          git push
