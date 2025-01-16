@@ -12,6 +12,8 @@ jobs:
     
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
       
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -60,8 +62,10 @@ jobs:
           
       - name: Commit and Push Catalog
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add catalog.json
           git commit -m "Update music catalog" || exit 0
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
