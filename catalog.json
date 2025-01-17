@@ -16,6 +16,134 @@
         "sampleRate": 0,
         "fileSize": 4745643,
         "fileSizeFormatted": "4.53 MB"
+      },
+      {
+        "name": "Dil Ki Dhadkan.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Bollywood/Dil Ki Dhadkan.mp3",
+        "path": "Bollywood/Dil Ki Dhadkan.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Dil Ki Dhadkan",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 2754477,
+        "fileSizeFormatted": "2.63 MB"
+      },
+      {
+        "name": "Dil.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Bollywood/Dil.mp3",
+        "path": "Bollywood/Dil.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Dil",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 3815469,
+        "fileSizeFormatted": "3.64 MB"
+      },
+      {
+        "name": "Pyar.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Bollywood/Pyar.mp3",
+        "path": "Bollywood/Pyar.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Pyar",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 4292397,
+        "fileSizeFormatted": "4.09 MB"
+      },
+      {
+        "name": "Rangon Se Bhara.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Bollywood/Rangon Se Bhara.mp3",
+        "path": "Bollywood/Rangon Se Bhara.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Rangon Se Bhara",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 5559021,
+        "fileSizeFormatted": "5.30 MB"
+      },
+      {
+        "name": "Saathi.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Bollywood/Saathi.mp3",
+        "path": "Bollywood/Saathi.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Saathi",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 5772141,
+        "fileSizeFormatted": "5.50 MB"
+      },
+      {
+        "name": "Safar.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Bollywood/Safar.mp3",
+        "path": "Bollywood/Safar.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Safar",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 3815469,
+        "fileSizeFormatted": "3.64 MB"
+      },
+      {
+        "name": "Shahar Ki Raaten.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Bollywood/Shahar Ki Raaten.mp3",
+        "path": "Bollywood/Shahar Ki Raaten.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Shahar Ki Raaten",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 3056877,
+        "fileSizeFormatted": "2.92 MB"
+      },
+      {
+        "name": "Tumhara Saath.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Bollywood/Tumhara Saath.mp3",
+        "path": "Bollywood/Tumhara Saath.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Tumhara Saath",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 3805101,
+        "fileSizeFormatted": "3.63 MB"
       }
     ],
     "Children": [
@@ -248,6 +376,22 @@
         "fileSizeFormatted": "5.47 MB"
       },
       {
+        "name": "Flying through Hunsur.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Energetic/Flying through Hunsur.mp3",
+        "path": "Energetic/Flying through Hunsur.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Flying through Hunsur",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 4913901,
+        "fileSizeFormatted": "4.69 MB"
+      },
+      {
         "name": "Market_Day_in_Barkhor.mp3",
         "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Energetic/Market_Day_in_Barkhor.mp3",
         "path": "Energetic/Market_Day_in_Barkhor.mp3",
@@ -310,6 +454,22 @@
         "sampleRate": 0,
         "fileSize": 4618398,
         "fileSizeFormatted": "4.40 MB"
+      },
+      {
+        "name": "Rising from dust.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Energetic/Rising from dust.mp3",
+        "path": "Energetic/Rising from dust.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Rising from dust",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 2727981,
+        "fileSizeFormatted": "2.60 MB"
       }
     ],
     "Inspiring": [
@@ -344,6 +504,22 @@
         "sampleRate": 0,
         "fileSize": 5774430,
         "fileSizeFormatted": "5.51 MB"
+      },
+      {
+        "name": "Lunga in the air.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Inspiring/Lunga in the air.mp3",
+        "path": "Inspiring/Lunga in the air.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Lunga in the air",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 2439981,
+        "fileSizeFormatted": "2.33 MB"
       },
       {
         "name": "Milarepa_s_Journey.mp3",
@@ -558,6 +734,22 @@
         "fileSizeFormatted": "2.91 MB"
       },
       {
+        "name": "Happy Valley.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Joyful/Happy Valley.mp3",
+        "path": "Joyful/Happy Valley.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Happy Valley",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 4934637,
+        "fileSizeFormatted": "4.71 MB"
+      },
+      {
         "name": "Lazy_to_Lit.mp3",
         "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Joyful/Lazy_to_Lit.mp3",
         "path": "Joyful/Lazy_to_Lit.mp3",
@@ -623,6 +815,22 @@
       }
     ],
     "Melancholic": [
+      {
+        "name": "Alone in Dhasa.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Melancholic/Alone in Dhasa.mp3",
+        "path": "Melancholic/Alone in Dhasa.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Alone in Dhasa",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 5199597,
+        "fileSizeFormatted": "4.96 MB"
+      },
       {
         "name": "Autumn_in_Drepung.mp3",
         "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Melancholic/Autumn_in_Drepung.mp3",
@@ -802,6 +1010,22 @@
         "fileSizeFormatted": "5.51 MB"
       },
       {
+        "name": "The Walk to Gangkyi.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Peaceful/The Walk to Gangkyi.mp3",
+        "path": "Peaceful/The Walk to Gangkyi.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "The Walk to Gangkyi",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 5772141,
+        "fileSizeFormatted": "5.50 MB"
+      },
+      {
         "name": "Voices_of_the_Stream.mp3",
         "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Peaceful/Voices_of_the_Stream.mp3",
         "path": "Peaceful/Voices_of_the_Stream.mp3",
@@ -852,6 +1076,22 @@
         "fileSizeFormatted": "5.51 MB"
       },
       {
+        "name": "Highway of Dreams.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Romantic/Highway of Dreams.mp3",
+        "path": "Romantic/Highway of Dreams.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Highway of Dreams",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 2993517,
+        "fileSizeFormatted": "2.85 MB"
+      },
+      {
         "name": "Love_in_Lhamo_Lake.mp3",
         "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Romantic/Love_in_Lhamo_Lake.mp3",
         "path": "Romantic/Love_in_Lhamo_Lake.mp3",
@@ -866,6 +1106,22 @@
         "sampleRate": 0,
         "fileSize": 5774428,
         "fileSizeFormatted": "5.51 MB"
+      },
+      {
+        "name": "Moonlight in Mussoorie.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Romantic/Moonlight in Mussoorie.mp3",
+        "path": "Romantic/Moonlight in Mussoorie.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Moonlight in Mussoorie",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 4063149,
+        "fileSizeFormatted": "3.87 MB"
       },
       {
         "name": "Pema_s_Moonlight.mp3",
@@ -900,6 +1156,38 @@
         "fileSizeFormatted": "3.13 MB"
       },
       {
+        "name": "The glance.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Romantic/The glance.mp3",
+        "path": "Romantic/The glance.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "The glance",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 3472749,
+        "fileSizeFormatted": "3.31 MB"
+      },
+      {
+        "name": "The trainride.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Romantic/The trainride.mp3",
+        "path": "Romantic/The trainride.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "The trainride",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 4063149,
+        "fileSizeFormatted": "3.87 MB"
+      },
+      {
         "name": "Tsering_s_Promise.mp3",
         "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Romantic/Tsering_s_Promise.mp3",
         "path": "Romantic/Tsering_s_Promise.mp3",
@@ -916,7 +1204,41 @@
         "fileSizeFormatted": "3.42 MB"
       }
     ],
+    "Tibetan": [
+      {
+        "name": "Makey-Ama.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Tibetan/Makey-Ama.mp3",
+        "path": "Tibetan/Makey-Ama.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Makey-Ama",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 4830381,
+        "fileSizeFormatted": "4.61 MB"
+      },
+      {
+        "name": "Makey-Ama_2.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Tibetan/Makey-Ama_2.mp3",
+        "path": "Tibetan/Makey-Ama_2.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Makey-Ama 2",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 1746477,
+        "fileSizeFormatted": "1.67 MB"
+      }
+    ],
     "node_modules": []
   },
-  "lastUpdated": "2025-01-17T02:27:38.517Z"
+  "lastUpdated": "2025-01-17T10:10:10.457Z"
 }
