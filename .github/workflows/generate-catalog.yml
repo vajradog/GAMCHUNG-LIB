@@ -20,19 +20,67 @@ jobs:
         with:
           node-version: '20'
           
+      - name: Install dependencies
+        run: npm install music-metadata
+          
       - name: Generate Music Catalog
         run: |
           node << 'EOF'
           const fs = require('fs');
           const path = require('path');
+          const mm = require('music-metadata');
           
           // Get repository info from environment variables
           const repoOwner = process.env.GITHUB_REPOSITORY.split('/')[0];
           const repoName = process.env.GITHUB_REPOSITORY.split('/')[1];
-          const branch = 'main';  // or your default branch name
+          const branch = 'main';
           
-          function generateCatalog(dir = '.') {
-            const catalog = { categories: {} };
+          async function getMetadata(filePath) {
+            try {
+              const metadata = await mm.parseFile(filePath);
+              return {
+                duration: metadata.format.duration || 0,
+                artist: metadata.common.artist || '',
+                title: metadata.common.title || '',
+                album: metadata.common.album || '',
+                year: metadata.common.year || '',
+                genre: metadata.common.genre ? metadata.common.genre[0] : '',
+                bitrate: metadata.format.bitrate ? Math.round(metadata.format.bitrate / 1000) : 0, // Convert to kbps
+                sampleRate: metadata.format.sampleRate || 0,
+                fileSize: fs.statSync(filePath).size
+              };
+            } catch (error) {
+              console.error(`Error reading metadata for ${filePath}:`, error);
+              return {
+                duration: 0,
+                artist: '',
+                title: '',
+                album: '',
+                year: '',
+                genre: '',
+                bitrate: 0,
+                sampleRate: 0,
+                fileSize: fs.statSync(filePath).size
+              };
+            }
+          }
+
+          function formatDuration(seconds) {
+            const minutes = Math.floor(seconds / 60);
+            const remainingSeconds = Math.round(seconds % 60);
+            return `${minutes}:${remainingSeconds.toString().padStart(2, '0')}`;
+          }
+
+          function formatFileSize(bytes) {
+            const mb = bytes / (1024 * 1024);
+            return mb.toFixed(2) + ' MB';
+          }
+          
+          async function generateCatalog(dir = '.') {
+            const catalog = { 
+              categories: {},
+              lastUpdated: new Date().toISOString()
+            };
             
             // Get all directories (categories)
             const categories = fs.readdirSync(dir, { withFileTypes: true })
@@ -45,10 +93,27 @@ jobs:
               const files = fs.readdirSync(categoryPath)
                 .filter(file => file.toLowerCase().endsWith('.mp3'));
               
-              catalog.categories[category] = files.map(file => ({
-                name: file,
-                url: `https://raw.githubusercontent.com/${repoOwner}/${repoName}/${branch}/${category}/${file}`,
-                path: `${category}/${file}`
+              // Process files with metadata
+              catalog.categories[category] = await Promise.all(files.map(async file => {
+                const filePath = path.join(categoryPath, file);
+                const metadata = await getMetadata(filePath);
+                
+                return {
+                  name: file,
+                  url: `https://raw.githubusercontent.com/${repoOwner}/${repoName}/${branch}/${category}/${file}`,
+                  path: `${category}/${file}`,
+                  duration: metadata.duration,
+                  durationFormatted: formatDuration(metadata.duration),
+                  artist: metadata.artist,
+                  title: metadata.title || file.replace('.mp3', '').replace(/_/g, ' '),
+                  album: metadata.album,
+                  year: metadata.year,
+                  genre: metadata.genre,
+                  bitrate: metadata.bitrate,
+                  sampleRate: metadata.sampleRate,
+                  fileSize: metadata.fileSize,
+                  fileSizeFormatted: formatFileSize(metadata.fileSize)
+                };
               }));
             }
             
@@ -56,8 +121,15 @@ jobs:
           }
           
           // Generate and save the catalog
-          const catalog = generateCatalog();
-          fs.writeFileSync('catalog.json', JSON.stringify(catalog, null, 2));
+          generateCatalog()
+            .then(catalog => {
+              fs.writeFileSync('catalog.json', JSON.stringify(catalog, null, 2));
+              console.log('Catalog generated successfully!');
+            })
+            .catch(error => {
+              console.error('Error generating catalog:', error);
+              process.exit(1);
+            });
           EOF
           
       - name: Commit and Push Catalog
@@ -65,7 +137,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add catalog.json
-          git commit -m "Update music catalog" || exit 0
+          git commit -m "Update music catalog with enhanced metadata" || exit 0
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
