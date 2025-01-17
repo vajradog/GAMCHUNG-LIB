@@ -2,22 +2,6 @@
   "categories": {
     "Bollywood": [
       {
-        "name": "Baby Snow Lion Dance.mp3",
-        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Bollywood/Baby Snow Lion Dance.mp3",
-        "path": "Bollywood/Baby Snow Lion Dance.mp3",
-        "duration": 0,
-        "durationFormatted": "0:00",
-        "artist": "",
-        "title": "Baby Snow Lion Dance",
-        "album": "",
-        "year": "",
-        "genre": "",
-        "bitrate": 0,
-        "sampleRate": 0,
-        "fileSize": 4745643,
-        "fileSizeFormatted": "4.53 MB"
-      },
-      {
         "name": "Dil Ki Dhadkan.mp3",
         "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Bollywood/Dil Ki Dhadkan.mp3",
         "path": "Bollywood/Dil Ki Dhadkan.mp3",
@@ -1240,5 +1224,5 @@
     ],
     "node_modules": []
   },
-  "lastUpdated": "2025-01-17T10:10:10.457Z"
+  "lastUpdated": "2025-01-17T10:16:12.448Z"
 }
