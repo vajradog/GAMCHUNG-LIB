@@ -1190,6 +1190,38 @@
     ],
     "Tibetan": [
       {
+        "name": "Bhoe Ki Drokpa.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Tibetan/Bhoe Ki Drokpa.mp3",
+        "path": "Tibetan/Bhoe Ki Drokpa.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Bhoe Ki Drokpa",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 3441069,
+        "fileSizeFormatted": "3.28 MB"
+      },
+      {
+        "name": "Losar Celebration.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Tibetan/Losar Celebration.mp3",
+        "path": "Tibetan/Losar Celebration.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Losar Celebration",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 3446829,
+        "fileSizeFormatted": "3.29 MB"
+      },
+      {
         "name": "Makey-Ama.mp3",
         "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Tibetan/Makey-Ama.mp3",
         "path": "Tibetan/Makey-Ama.mp3",
@@ -1220,9 +1252,25 @@
         "sampleRate": 0,
         "fileSize": 1746477,
         "fileSizeFormatted": "1.67 MB"
+      },
+      {
+        "name": "Tsawai Lama Reimagined.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Tibetan/Tsawai Lama Reimagined.mp3",
+        "path": "Tibetan/Tsawai Lama Reimagined.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Tsawai Lama Reimagined",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 1171629,
+        "fileSizeFormatted": "1.12 MB"
       }
     ],
     "node_modules": []
   },
-  "lastUpdated": "2025-01-17T10:16:12.448Z"
+  "lastUpdated": "2025-01-18T16:57:34.955Z"
 }
