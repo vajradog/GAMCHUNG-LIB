@@ -132,6 +132,22 @@
     ],
     "Children": [
       {
+        "name": "All About Kyipo.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Children/All About Kyipo.mp3",
+        "path": "Children/All About Kyipo.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "All About Kyipo",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 1777581,
+        "fileSizeFormatted": "1.70 MB"
+      },
+      {
         "name": "Baby Snow Lion Dance.mp3",
         "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Children/Baby Snow Lion Dance.mp3",
         "path": "Children/Baby Snow Lion Dance.mp3",
@@ -194,6 +210,22 @@
         "sampleRate": 0,
         "fileSize": 3100515,
         "fileSizeFormatted": "2.96 MB"
+      },
+      {
+        "name": "Hiding from Genla.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Children/Hiding from Genla.mp3",
+        "path": "Children/Hiding from Genla.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Hiding from Genla",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 1796589,
+        "fileSizeFormatted": "1.71 MB"
       },
       {
         "name": "Little Yak Adventure.mp3",
@@ -324,6 +356,22 @@
         "sampleRate": 0,
         "fileSize": 4066136,
         "fileSizeFormatted": "3.88 MB"
+      },
+      {
+        "name": "The Revelaton of Terma.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Dramatic/The Revelaton of Terma.mp3",
+        "path": "Dramatic/The Revelaton of Terma.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "The Revelaton of Terma",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 3919149,
+        "fileSizeFormatted": "3.74 MB"
       }
     ],
     "Energetic": [
@@ -718,6 +766,22 @@
         "fileSizeFormatted": "2.91 MB"
       },
       {
+        "name": "Fun at Bhagsu.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Joyful/Fun at Bhagsu.mp3",
+        "path": "Joyful/Fun at Bhagsu.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Fun at Bhagsu",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 1723437,
+        "fileSizeFormatted": "1.64 MB"
+      },
+      {
         "name": "Happy Valley.mp3",
         "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Joyful/Happy Valley.mp3",
         "path": "Joyful/Happy Valley.mp3",
@@ -732,6 +796,22 @@
         "sampleRate": 0,
         "fileSize": 4934637,
         "fileSizeFormatted": "4.71 MB"
+      },
+      {
+        "name": "Kalimpong Sky.mp3",
+        "url": "https://raw.githubusercontent.com/vajradog/GAMCHUNG-LIB/main/Joyful/Kalimpong Sky.mp3",
+        "path": "Joyful/Kalimpong Sky.mp3",
+        "duration": 0,
+        "durationFormatted": "0:00",
+        "artist": "",
+        "title": "Kalimpong Sky",
+        "album": "",
+        "year": "",
+        "genre": "",
+        "bitrate": 0,
+        "sampleRate": 0,
+        "fileSize": 4398381,
+        "fileSizeFormatted": "4.19 MB"
       },
       {
         "name": "Lazy_to_Lit.mp3",
@@ -1272,5 +1352,5 @@
     ],
     "node_modules": []
   },
-  "lastUpdated": "2025-01-18T16:57:34.955Z"
+  "lastUpdated": "2025-01-27T22:59:37.842Z"
 }
